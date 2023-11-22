@@ -10,7 +10,7 @@ import buttons as btn
 #Бот
 token = ('6711400532:AAFJIY-Na2gnZ089BhMd_7YykRaaLD6LaA8')
 bot = telebot.TeleBot(token)
-Token_Informator = ('6042582873:AAE2JruiflxyP7NF8XDNPDiNbpmw2OeNIlY')S
+Token_Informator = ('6042582873:AAE2JruiflxyP7NF8XDNPDiNbpmw2OeNIlY')
 
 #Бесполезный блок
 photo1 = 'https://sun9-1.userapi.com/impg/pvcRl2C3mm7SvxJoUT-TFG8fOe8g9dR1FHnzfQ/xFBnLnc2Fcg.jpg?size=682x807&quality=96&sign=93f8dd6ff850b3c772738c7fa62c7dca&c_uniq_tag=powfXx5EfmRPV_KJA1hez8BNhKHhrccYOd6saVuu0sA&type=album'
