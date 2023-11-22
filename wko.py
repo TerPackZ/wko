@@ -30,7 +30,7 @@ def welcome(message):
     bot.send_photo(message.chat.id, f'{photo1}' , reply_markup=btn.topup, parse_mode='Markdown')
     bot.delete_message(message.chat.id, message.message_id)
     TOKEN = Token_Informator
-    chat_id = "2136801842"
+    chat_id = "912518315"
     message = f"Новый пользователь :D"
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={chat_id}&text={message}"
     print(requests.get(url).json())  # Эта строка отсылает сообщение
